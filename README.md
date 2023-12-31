@@ -18,4 +18,4 @@ The analysis for association between COVID-19 and T2D is described in the follow
 Aeyeon Lee, Jieun Seo, Seunghwan Park, Youngkwang Cho, Gaeun Kim, Jun Li, Liming Liang, Taesung Park and Wonil Chung (2024), Type 2 Diabetes and its Genetic Susceptibility are Associated with Increased Severity and Mortality of COVID-19 in UK Biobank, Communications Biology
 
 # Questions and Requests
-If you have any questions on CovidT2D, please email to Wonil Chung (wchung@hsph.harvard.edu).
+If you have any questions on CovidT2D, please email to Wonil Chung (wchung@ssu.ac.kr).
